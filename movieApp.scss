@@ -1,0 +1,43 @@
+.column1{
+  display:inline-block;
+  width:30%;
+  height:auto;
+  background-color: silver;
+}
+.column2{
+  display:inline-block;
+  width:50%;
+  height:auto;
+  background-color: white;
+}
+
+li{
+display:flex;
+list-style: none;
+
+}
+
+.movieList{
+
+  width:100%;
+  height:auto;
+}
+
+.fluid-img{
+  width:100%;
+}
+.small-img{
+
+width:15%;
+height:10%;
+
+}
+.body{
+  display:flex;
+}
+.titleFont{
+  font-size: 15;
+}
+a{
+  text-decoration:underline;
+}
